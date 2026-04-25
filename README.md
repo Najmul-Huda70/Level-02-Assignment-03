@@ -1,5 +1,6 @@
 # Level-02-Assignment-03
 ## Vehicle Rental System - Database Design & SQL Queries
+[<img width="871" height="213" alt="image" src="https://github.com/user-attachments/assets/ac086ed7-2d8e-4ccc-8f3d-366d7aef4fb5" />](https://drawsql.app/teams/najmul-huda/diagrams/vehicle-rental-system)
 
 Query 1: JOIN
 Retrieve booking information along with:
@@ -86,5 +87,5 @@ GROUP BY
 HAVING
     COUNT(v.vehicle_id) > 2;
 ```
-
-[video](https://youtu.be/qxmKsMjRl3g?si=U8YsuWV874EpBcXP)
+- [ERD](https://drawsql.app/teams/najmul-huda/diagrams/vehicle-rental-system)
+- [video](https://youtu.be/qxmKsMjRl3g?si=U8YsuWV874EpBcXP)
